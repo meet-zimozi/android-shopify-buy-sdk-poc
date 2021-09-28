@@ -1,2 +1,2 @@
 # shopify-sdk-poc
-Shopify Buy Sdk POC for Krone1
+Shopify Buy Sdk POC 
